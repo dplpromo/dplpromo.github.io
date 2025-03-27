@@ -1,0 +1,24 @@
+{
+  "data_range": {
+    "start_year": 1880,
+    "end_year": 2022
+  },
+  "trend_per_decade": 0.0763,
+  "warming_since_preindustrial": 0.9204,
+  "average_anomalies": {
+    "pre_industrial": -0.5129,
+    "early_20th_century": -0.4726,
+    "late_20th_century": -0.1587,
+    "21st_century": 0.4075
+  },
+  "extremes": {
+    "warmest_year": {
+      "year": 2016,
+      "anomaly": 0.6816
+    },
+    "coldest_year": {
+      "year": 1904,
+      "anomaly": -0.7565
+    }
+  }
+}
